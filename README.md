@@ -1,4 +1,4 @@
-# DynamicBakningWebsite
+# DynamicBanking Website
 Isaiah Alviola (Solo Project)
 
 Note: Access to Kean's database is temporary, however I will provide a link to the website anyways until it is take away.
